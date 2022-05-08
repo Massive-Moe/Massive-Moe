@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Massive-Moe
-- 👀 I’m interested in Friday Night Funkin
-- 🌱 I’m currently learning C#, C++, and Haxe
-- 📫 How to reach me on Discord @Massive Moe #8626
+Best programmer on the planet no 🧢
 
 <!---
 Massive-Moe/Massive-Moe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
